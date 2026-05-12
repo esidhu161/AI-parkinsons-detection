@@ -56,3 +56,23 @@ This project was completed as part of a collaborative university AI project.
 
 ## Academic Project
 This repository represents a university group project focused on applying AI and computer vision concepts to healthcare-related challenges.
+
+## Project Results
+
+### Confusion Matrix
+![Confusion Matrix](CONFUSION MATRIXPNG.jpeg)
+
+### Precision Recall Curve
+![Precision Recall](PRECISION RECALL CURVE.jpeg)
+
+### Patient Detection Samples
+![Patient Detection](PATIENT DETECTION SAMPLES.jpeg)
+
+### MediaPipe Tracking
+![MediaPipe](MEDIAPIPE TRACKING.jpeg)
+
+### Signal Analysis Table
+![Signal Table](SIGNAL ANALYSIS TABLE.jpeg)
+
+### Training Results
+![Training Results](TRAINING TABLE RESULT.jpeg)
