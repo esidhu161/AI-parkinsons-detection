@@ -90,6 +90,8 @@ This repository represents a university group project focused on applying AI and
 
 <img width="1414" height="839" alt="image" src="https://github.com/user-attachments/assets/88cfe0cc-7cab-42b7-8d16-ffcdfa3bacc3" />
 
+# PIPELINE 
+
 ## System Workflow
 
 1. Video input collection
