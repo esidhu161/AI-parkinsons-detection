@@ -66,6 +66,9 @@ This repository represents a university group project focused on applying AI and
 
 # MEDIAPIPE TRACKING 
 
+<img width="2311" height="946" alt="image" src="https://github.com/user-attachments/assets/45791aa9-c7f4-45b2-9824-0322dfad59a7" />
+
+
 # PATIENT DETECTION 
 
 # PRECISION RECALL CURVE 
