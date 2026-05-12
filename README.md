@@ -81,7 +81,9 @@ This repository represents a university group project focused on applying AI and
 
 # SIGNAL ANALYSIS TABLE
 
-<img width="1414" height="839" alt="image" src="https://github.com/user-attachments/assets/15d745af-196a-4b93-9bd1-06e1264a1eba" />
+
+<img width="978" height="550" alt="image" src="https://github.com/user-attachments/assets/8653e494-0e9f-4e63-8f72-dc08aad69d59" />
+
 
 
 # TRAINING TABLE RESULT 
