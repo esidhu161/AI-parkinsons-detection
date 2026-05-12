@@ -69,7 +69,10 @@ This repository represents a university group project focused on applying AI and
 <img width="2311" height="946" alt="image" src="https://github.com/user-attachments/assets/45791aa9-c7f4-45b2-9824-0322dfad59a7" />
 
 
-# PATIENT DETECTION 
+# PATIENT DETECTION
+
+<img width="684" height="655" alt="image" src="https://github.com/user-attachments/assets/5ed3a25c-b22d-40b3-86d0-1db29cb3241b" />
+
 
 # PRECISION RECALL CURVE 
 
