@@ -61,6 +61,9 @@ This repository represents a university group project focused on applying AI and
 
 # CONFUSION MATRIX  PNG 
 
+<img width="822" height="718" alt="image" src="https://github.com/user-attachments/assets/27529ec1-0642-4282-98d7-0a065ac67bad" />
+
+
 # MEDIAPIPE TRACKING 
 
 # PATIENT DETECTION 
