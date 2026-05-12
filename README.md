@@ -76,6 +76,9 @@ This repository represents a university group project focused on applying AI and
 
 # PRECISION RECALL CURVE 
 
+<img width="1188" height="773" alt="image" src="https://github.com/user-attachments/assets/5109dda7-30c5-4eb5-af0e-5d5743c44e6b" />
+
+
 # SIGNAL ANALYSIS TABLE 
 
 # TRAINING TABLE RESULT 
