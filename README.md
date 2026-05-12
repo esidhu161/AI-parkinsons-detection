@@ -59,7 +59,8 @@ This repository represents a university group project focused on applying AI and
 
 ## Project Results
 
-### Confusion Matrix
+### Confusion Matrix  <img width="822" height="718" alt="image" src="https://github.com/user-attachments/assets/41f1914b-ac10-4909-8c6f-080ba865ccd5" />
+
 ![Confusion Matrix](CONFUSION MATRIXPNG.jpeg)
 
 ### Precision Recall Curve
