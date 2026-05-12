@@ -59,21 +59,14 @@ This repository represents a university group project focused on applying AI and
 
 ## Project Results
 
-### Confusion Matrix  <img width="822" height="718" alt="image" src="https://github.com/user-attachments/assets/41f1914b-ac10-4909-8c6f-080ba865ccd5" />
+# CONFUSION MATRIX  PNG 
 
-![Confusion Matrix](CONFUSION MATRIXPNG.jpeg)
+# MEDIAPIPE TRACKING 
 
-### Precision Recall Curve
-![Precision Recall](PRECISION RECALL CURVE.jpeg)
+# PATIENT DETECTION 
 
-### Patient Detection Samples
-![Patient Detection](PATIENT DETECTION SAMPLES.jpeg)
+# PRECISION RECALL CURVE 
 
-### MediaPipe Tracking
-![MediaPipe](MEDIAPIPE TRACKING.jpeg)
+# SIGNAL ANALYSIS TABLE 
 
-### Signal Analysis Table
-![Signal Table](SIGNAL ANALYSIS TABLE.jpeg)
-
-### Training Results
-![Training Results](TRAINING TABLE RESULT.jpeg)
+# TRAINING TABLE RESULT 
